@@ -1,4 +1,4 @@
-# Beginner projects
+# Beginner's projects
 ## Greeting app
 https://github.com/Siddhi-Jadhav/React/tree/main/greeting-app
 ## ToDo app
